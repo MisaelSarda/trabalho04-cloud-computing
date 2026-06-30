@@ -1,0 +1,12 @@
+[
+  {"id": 1, "tipo": "Alimento", "item": "Arroz 5kg", "quantidade": 2, "doador": "Maria Silva", "data_doacao": "2026-06-25"},
+  {"id": 2, "tipo": "Roupa", "item": "Casaco de Inverno", "quantidade": 1, "doador": "João Pedro", "data_doacao": "2026-06-26"},
+  {"id": 3, "tipo": "Alimento", "item": "Feijão Preto 1kg", "quantidade": 5, "doador": "Ana Costa", "data_doacao": "2026-06-26"},
+  {"id": 4, "tipo": "Roupa", "item": "Calças de Ganga", "quantidade": 3, "doador": "Carlos Mendes", "data_doacao": "2026-06-27"},
+  {"id": 5, "tipo": "Alimento", "item": "Óleo de Soja", "quantidade": 4, "doador": "Empresa ABC", "data_doacao": "2026-06-27"},
+  {"id": 6, "tipo": "Roupa", "item": "Camisolas de Lã", "quantidade": 10, "doador": "Escola Secundária", "data_doacao": "2026-06-28"},
+  {"id": 7, "tipo": "Alimento", "item": "Leite em Pó", "quantidade": 6, "doador": "Misael Sarda", "data_doacao": "2026-06-28"},
+  {"id": 8, "tipo": "Roupa", "item": "Sapatos Infantis", "quantidade": 2, "doador": "Sofia Almeida", "data_doacao": "2026-06-29"},
+  {"id": 9, "tipo": "Alimento", "item": "Massa Esparguete", "quantidade": 8, "doador": "Rui Oliveira", "data_doacao": "2026-06-29"},
+  {"id": 10, "tipo": "Roupa", "item": "Cobertores", "quantidade": 5, "doador": "Hotel Central", "data_doacao": "2026-06-30"}
+]
